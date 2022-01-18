@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "未命名sdf.md",
+            "file": "test.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名sdf.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "9b206b299d378238",
   "lastOpenFiles": [
+    "test.md",
     "未命名sdf.md",
-    "later.md",
-    "test.md"
+    "later.md"
   ]
 }
