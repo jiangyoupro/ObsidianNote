@@ -4,14 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "6fe519e948b3a18c",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
         "id": "9b206b299d378238",
         "type": "leaf",
         "state": {
@@ -57,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "9b206b299d378238",
   "lastOpenFiles": [
