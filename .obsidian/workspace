@@ -4,6 +4,14 @@
     "type": "split",
     "children": [
       {
+        "id": "6fe519e948b3a18c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
         "id": "9b206b299d378238",
         "type": "leaf",
         "state": {
@@ -79,18 +87,27 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "f6a68854c4deb895",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "9b206b299d378238",
   "lastOpenFiles": [
     "test.md",
     "未命名sdf.md",
+    "README.md",
     "later.md"
   ]
 }
